@@ -19,3 +19,4 @@ class Product:
     def _str_(self):
         """String representation for easy display."""
         return f"{self.name} - ${self.price:.2f} (Stock: {self.stock})"
+
