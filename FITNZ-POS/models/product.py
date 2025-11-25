@@ -21,3 +21,4 @@ class Product:
         return f"{self.name} - ${self.price:.2f} (Stock: {self.stock})"
 
 
+
